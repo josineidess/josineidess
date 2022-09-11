@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: tenho que tomar algo morno antes de dormir...
-- 🌱 I’m currently learning: C e interface gráficas
+- 🌱 I’m currently learning: interfaces gráficas em C
 
  <div>
   <a href="https://github.com/josineidess">
